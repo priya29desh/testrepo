@@ -1,1 +1,2 @@
 This is the file I created on GitHub
+Doing changes in myfile.txt in git
